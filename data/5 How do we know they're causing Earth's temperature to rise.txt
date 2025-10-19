@@ -1,0 +1,19 @@
+Since greenhouse gases occur naturally, how do we know they're causing Earth's temperature to rise?
+
+Greenhouse gases like water vapor and carbon dioxide serve an important role in the climate. Without them, Earth would be far too cold to maintain liquid water and humans would not exist!
+
+Here's how it works: the planet's temperature is basically a function of the energy the Earth absorbs from the sun (which heats it up) and the energy Earth emits to space as infrared radiation (which cools it down). Because of their molecular structure, greenhouse gases temporarily absorb some of that outgoing infrared radiation and then re-emit it in all directions, sending some of that energy back toward the surface and heating the planet. Scientists have understood this process since the 1850s.
+
+Greenhouse gas concentrations have varied naturally in the past. Over millions of years, atmospheric CO2 levels have changed depending on how much of the gas volcanoes belched into the air and how much got removed through geologic processes. On time scales of hundreds to thousands of years, concentrations have changed as carbon has cycled between the ocean, soil and air.
+
+Today, however, we are the ones causing CO2 levels to increase at an unprecedented pace by taking ancient carbon from geologic deposits of fossil fuels and putting it into the atmosphere when we burn them. Since 1750, carbon dioxide concentrations have increased by almost 50 percent. Methane and nitrous oxide, other important anthropogenic greenhouse gases that are released mainly by agricultural activities, have also spiked over the last 250 years.
+
+We know based on the physics described above that this should cause the climate to warm. We also see certain telltale "fingerprints" of greenhouse warming. For example, nights are warming even faster than days because greenhouse gases don't go away when the sun sets. And upper layers of the atmosphere have actually cooled, because more energy is being trapped by greenhouse gases in the lower atmosphere.
+
+We also know that we are the cause of rising greenhouse gas concentrations — and not just because we can measure the CO2 coming out of tailpipes and smokestacks. We can see it in the chemical signature of the carbon in CO2.
+
+Carbon comes in three different masses: 12, 13 and 14. Things made of organic matter (including fossil fuels) tend to have relatively less carbon-13. Volcanoes tend to produce CO2 with relatively more carbon-13. And over the last century, the carbon in atmospheric CO2 has gotten lighter, pointing to an organic source.
+
+We can tell it's old organic matter by looking for carbon-14, which is radioactive and decays over time. Fossil fuels are too ancient to have any carbon-14 left in them, so if they were behind rising CO2 levels, you would expect the amount of carbon-14 in the atmosphere to drop, which is exactly what the data show.
+
+It's important to note that water vapor is the most abundant greenhouse gas in the atmosphere. However, it does not cause warming; instead it responds to it. That's because warmer air holds more moisture, which creates a snowball effect in which human-caused warming allows the atmosphere to hold more water vapor and further amplifies climate change. This so-called feedback cycle has doubled the warming caused by anthropogenic greenhouse gas emissions.
